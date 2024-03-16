@@ -1,3 +1,3 @@
-# WorkOS
+## WorkOS
 
 WorkOS, l'OS du peuple
