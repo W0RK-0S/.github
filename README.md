@@ -1,2 +1,2 @@
-# .github
+# WorkOS
 WorkOS, l'OS du peuple
